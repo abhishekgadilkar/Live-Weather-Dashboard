@@ -96,7 +96,7 @@ To provide a **real-time weather and AQI dashboard** that:
 * **Government Usage**: Authorities can monitor and respond to pollution or weather-related risks in real-time.
 
 ---
-
+ 
 ## 🖼 **Screenshot**
 
 ![Live Weather Dashboard – Kolhapur](https://github.com/abhishekgadilkar/Live-Weather-Dashboard/blob/main/Live_weather_.png)

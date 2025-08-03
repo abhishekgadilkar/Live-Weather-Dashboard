@@ -99,7 +99,7 @@ To provide a **real-time weather and AQI dashboard** that:
 
 ## 🖼 **Screenshot**
 
-![Live Weather Dashboard – Kolhapur](/mnt/data/Live_weather_.png)
+![Live Weather Dashboard – Kolhapur](https://github.com/abhishekgadilkar/Live-Weather-Dashboard/blob/main/Live_weather_.png)
 
 ---
 
